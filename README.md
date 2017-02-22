@@ -10,3 +10,6 @@ To run tests execute: mvn clean install
 69836 Rita Ferreira rita.c.ferreira@live.com ritchaves
 
 70012 Filipe Cruzinha filipe.cruzinha@gmail.com Cruzinha
+
+75834 Hugo do Vale hugo_yoco@hotmail.com zipie
+
