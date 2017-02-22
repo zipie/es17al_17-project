@@ -8,4 +8,5 @@ To run tests execute: mvn clean install
 78753 Alcino Albuquerque condealbuquerque@gmail.com alcinocondealbuquerque
 
 69836 Rita Ferreira rita.c.ferreira@live.com ritchaves
->>>>>>> d1a8910c5883f4abaf0afba0d6991bec03c85436
+
+70012 Filipe Cruzinha filipe.cruzinha@gmail.com Cruzinha
